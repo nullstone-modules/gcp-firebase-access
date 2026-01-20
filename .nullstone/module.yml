@@ -1,0 +1,17 @@
+org_name: nullstone
+name: gcp-firebase-access
+friendly_name: Firebase Access
+description: Grants a GCP app access to use Firebase Auth
+category: capability
+subcategory: datastores
+provider_types:
+    - gcp
+platform: firebase
+subplatform: ""
+type: ""
+appCategories:
+    - container
+    - serverless
+    - server
+is_public: true
+tool_name: opentofu
